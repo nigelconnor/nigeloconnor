@@ -199,15 +199,23 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
 	color: rgb(227, 238, 243);
-	font-size: 82px;
+	font-size: 70px;
 	font-weight: 700;
-	text-transform: uppercase;
+	text-transform: none;
 	margin-top: 0;
 	margin-bottom: 10px;
 }
 .intro h1 span {
 	font-weight: 800;
 	color: #dce7e7;
+}
+.intro h3 {
+	color: rgb(200, 224, 228);
+	font-size: 40px;
+	font-weight: 500;
+	line-height: 30px;
+	margin: 0 auto;
+	margin-bottom: 60px;
 }
 .intro p {
 	color: rgb(200, 224, 228);
@@ -291,6 +299,9 @@ header .intro-text {
 	padding: 100px 0;
 	background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
 	color: #fff;
+}
+#services .container {
+	width: 990px 
 }
 #services .service-desc {
 	margin: 10px 10px 20px;

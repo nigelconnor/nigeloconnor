@@ -1,8 +1,9 @@
 {
     "Header": {
 
-        "title": "Nigel O'Connor Ph. Th. MIAPT",
-        "paragraph": "You shouldn't have to live with pain. I am here to help find a way to get you back to feeling great"
+        "title": "Nigel O'Connor",
+        "info": "Physical Therapy Tramore",
+        "paragraph": "You shouldn't have to live with pain. I am here to help you get back to feeling great"
 
     },
     "About": {
@@ -62,22 +63,22 @@
         },
         {
             "img": "img/testimonials/brian.jpg",
-            "text": "\"A true gentleman.\"",
+            "text": "\"Was told I should never run again, now I am running pain free.\"",
             "name": "Brian Swaby"
         },
         {
             "img": "img/testimonials/pat.jpg",
-            "text": "\"Mad for the craic and a mighty physio.\"",
+            "text": "\"Have used Nigel for many years with my troublesome back. Always a great help.\"",
             "name": "Pat Power"
         },
         {
             "img": "img/testimonials/gab.jpg",
-            "text": "\"Mad for the craic and a mighty physio.\"",
+            "text": "\"Had knee issues caused by running, got a rehab programme which got me back pain free.\"",
             "name": "Gabrielle Power"
         },
         {
             "img": "img/testimonials/kenny.jpg",
-            "text": "\"Mad for the craic and a mighty physio.\"",
+            "text": "\"Get regular rub downs, best pair of hands around. Also fixed any niggles I had training for Iron Man.\"",
             "name": "Kenny Lonergan"
         },
         {

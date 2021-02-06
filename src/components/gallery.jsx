@@ -10,6 +10,9 @@ export class Gallery extends Component {
             <p>
               A picture tells a thousand stories, here are some pictures of various qualification and bits n' bobs.
             </p>
+            <p>
+              Click on the picture to enlarge
+            </p>
           </div>
           <div className="row">
             <div className="portfolio-items">
@@ -19,6 +22,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/iapt.jpg"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -40,6 +44,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/coru.jpg"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -61,6 +66,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/clinic.jpg"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -82,6 +88,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/card.jpg"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -103,6 +110,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/goto.jpg"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -124,6 +132,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/fcard.jpg"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -145,6 +154,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/2006.jpg"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -166,6 +176,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/ex4.png"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
@@ -187,6 +198,7 @@ export class Gallery extends Component {
                     {" "}
                     <a
                       href="img/portfolio/ex1.png"
+                      target="_blank"
                       title=""
                       data-lightbox-gallery="gallery1"
                     >
