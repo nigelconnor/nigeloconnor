@@ -1,7 +1,9 @@
 # Nigel O'Connor Physical Therapy
 
-
-### <a href="https://react-landing-page-template.herokuapp.com">LIVE DEMO</a> 
-
 ## Description
-Some information for my physio page.
+Work in progress Physio website
+
+## How to run locally
+Clone repo 
+cd to folder
+yarn start
