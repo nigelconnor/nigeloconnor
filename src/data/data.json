@@ -1,87 +1,89 @@
 {
     "Header": {
 
-        "title": "We are a Landing Page",
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+        "title": "Nigel O'Connor Ph. Th. MIAPT",
+        "paragraph": "You shouldn't have to live with pain. I am here to help find a way to get you back to feeling great"
 
     },
     "About": {
-        "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "paragraph": "Providing a highly rated and sought after service for over 15 years to the people of Tramore and beyond. You are in safe hands, whether it's a graded rehab program, manipulation, dry needling, deep tissue massage or just some advice, I am here to help",
         "Why": [
-            "Lorem ipsum dolor",
-            "Tempor incididunt",
-            "Lorem ipsum dolor",
-            "Incididunt ut labore"
+            "Over 15 years experience",
+            "No unnecessary return visits",
+            "Video exercies provided to clients",
+            "CORU Registered and Regulated",
+            "Worked with top sports athletes"
         ],
         "Why2": [
-            "Aliquip ex ea commodo",
-            "Lorem ipsum dolor",
-            "Exercitation ullamco",
-            "Lorem ipsum dolor"
+            "I love to help people get better",
+            "Graded Rehab Program",
+            "IAPT Member",
+            "Regular CPD Courses taken",
+            "Excellent value for money"
         ]
     },
     "Services": [{
-            "icon": "fa fa-wordpress",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-support",
+            "name": "Client History",
+            "text": "Everyones body has a different story to tell, it's vital we find out all the important events in your life that has lead to this current state"
         },
         {
-            "icon": "fa fa-cart-arrow-down",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-heart-o",
+            "name": "Assessment",
+            "text": "What's working good, what's working not so good, what caused pain, what eases pain. Now we start to see the picture"
         },
         {
-            "icon": "fa fa-cloud-download",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-heartbeat",
+            "name": "Treatment Plan",
+            "text": "Agree on a treatment plan sepcific to you and your lifestyle"
         },
         {
-            "icon": "fa fa-language",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-medkit",
+            "name": "Hands-On",
+            "text": "The best pair of hands in Waterford if that's what you need/want"
         },
         {
-            "icon": "fa fa-plane",
-            "name": "Lorem ipsum dolor",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-user",
+            "name": "Other Modalities",
+            "text": "Dry Needling, Manipulation, Ultra-Sound, Interferrential, Massage, Muscle Enery Technique, Cross Fibre Friction"
         },
         {
-            "icon": "fa fa-pie-chart",
-            "name": "Consectetur adipiscing",
-            "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+            "icon": "fa fa-stethoscope",
+            "name": "Conditions Treated",
+            "text": "Running & other sports injuries, back pain, neck and whiplash problems, shoulder problems, stress related conditions, tension headaches and joint strains."
         }
 
 
     ],
     "Testimonials": [{
-            "img": "img/testimonials/01.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/ger.jpg",
+            "text": "\"Always professional, never brings you back for extra sessions\"",
+            "name": "Ger Scully"
         },
         {
-            "img": "img/testimonials/02.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/testimonials/brian.jpg",
+            "text": "\"A true gentleman.\"",
+            "name": "Brian Swaby"
         },
         {
-            "img": "img/testimonials/03.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/pat.jpg",
+            "text": "\"Mad for the craic and a mighty physio.\"",
+            "name": "Pat Power"
         },
         {
-            "img": "img/testimonials/04.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "img": "img/testimonials/gab.jpg",
+            "text": "\"Mad for the craic and a mighty physio.\"",
+            "name": "Gabrielle Power"
         },
         {
-            "img": "img/testimonials/05.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "John Doe"
+            "img": "img/testimonials/kenny.jpg",
+            "text": "\"Mad for the craic and a mighty physio.\"",
+            "name": "Kenny Lonergan"
         },
         {
             "img": "img/testimonials/06.jpg",
-            "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-            "name": "Johnathan Doe"
+            "text": "\"Very knowleable, felt comfortable and at ease right away, really listened to my story and fixed my issue in 1 session.\"",
+            "name": "Mary Scanlon"
         }
     ],
     "Team": [{
@@ -105,32 +107,46 @@
         }
     ],
     "Contact": {
-        "address": "4321 California St, San Francisco, CA 12345 ",
-        "phone": "+1 123 456 1234",
-        "email": "info@company.com",
-        "facebook": "fb.com",
-        "twitter": "twitter.com",
+        "address": "18 The Strand, Somerville, Tramore, Co.Waterford X91PK38 ",
+        "phone": "087-9079063",
+        "email": "info@nigeloconnor.com",
+        "facebook": "https://www.facebook.com/NigelOConnorPhysicalTherapy",
+        "twitter": "https://twitter.com/treatyman",
         "youtube": "youtube.com"
     },
-    "Features": [{
-            "icon": "fa fa-comments-o",
-            "title": "Lorem ipsum",
+    "Insurance": {
+        "covered": "Your consultation fee (€50) is covered by the following Insurance Providers",
+        "providers":
+        [{
+            "icon": "fa fa-credit-card",
+            "title": "VHI Healthcare",
+            "text": "Check out www.vhi.ie for more details."
+        },
+        {
+            "icon": "fa fa-euro",
+            "title": "Aviva",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-bullhorn",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-dollar",
+            "title": "Laya Healthcare",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-group",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-hand-o-right",
+            "title": "Irish Life health",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         },
         {
-            "icon": "fa fa-magic",
-            "title": "Lorem ipsum",
+            "icon": "fa fa-hand-o-up",
+            "title": "Garda Medical Aid",
+            "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+        },
+        {
+            "icon": "fa fa-eye",
+            "title": "HSF Health Plan",
             "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
         }
     ]
+}
 }

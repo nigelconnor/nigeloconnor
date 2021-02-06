@@ -76,8 +76,8 @@ hr {
 }
 #menu a.navbar-brand {
 	font-family: 'Raleway', sans-serif;
-	font-size: 24px;
-	font-weight: 700;
+	font-size: 18px;
+	font-weight: 550;
 	color: #333;
 	text-transform: uppercase;
 }
@@ -186,7 +186,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 	display: table;
 	width: 100%;
 	padding: 0;
-	background: url(../img/intro-bg.jpg) center center no-repeat;
+	background: url(../img/intro-bg1.jpg) center center no-repeat;
 	background-color: #e5e5e5;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -198,7 +198,7 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro h1 {
 	font-family: 'Raleway', sans-serif;
-	color: #fff;
+	color: rgb(227, 238, 243);
 	font-size: 82px;
 	font-weight: 700;
 	text-transform: uppercase;
@@ -207,12 +207,12 @@ a:focus, .btn:focus, .btn:active:focus, .btn.active:focus, .btn.focus, .btn:acti
 }
 .intro h1 span {
 	font-weight: 800;
-	color: #5ca9fb;
+	color: #dce7e7;
 }
 .intro p {
-	color: #fff;
-	font-size: 22px;
-	font-weight: 300;
+	color: rgb(200, 224, 228);
+	font-size: 24px;
+	font-weight: 500;
 	line-height: 30px;
 	margin: 0 auto;
 	margin-bottom: 60px;
@@ -222,12 +222,12 @@ header .intro-text {
 	padding-bottom: 200px;
 	text-align: center;
 }
-/* Features Section */
-#features {
+/* insurance Section */
+#insurance {
 	padding: 100px 0;
 	background: #f6f6f6;
 }
-#features i.fa {
+#insurance i.fa {
 	font-size: 38px;
 	margin-bottom: 20px;
 	transition: all 0.5s;
