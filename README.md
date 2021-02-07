@@ -4,7 +4,7 @@
 Work in progress Physio website
 
 ## How to run locally
-##### Clone repo 
+###### Clone repo 
 ###### cd to folder
-##### yarn install (use node > 10)
-##### yarn start
+###### yarn install (use node > 10)
+###### yarn start
