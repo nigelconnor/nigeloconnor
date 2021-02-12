@@ -18,9 +18,8 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            
-            <a className="navbar-brand" href="#"/>
-              <img src="img/coru-logo.png" width="180" height="64" alt=""/>
+            <a className="navbar-brand" href="http://www.coru.ie"> </a>
+              <img src="img/CORU.jpg" width="180" height="64" alt=""/>
           </div>
 
           <div
