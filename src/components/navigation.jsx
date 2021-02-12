@@ -18,9 +18,9 @@ export class Navigation extends Component {
               <span className="icon-bar"></span>{" "}
               <span className="icon-bar"></span>{" "}
             </button>
-            <a className="navbar-brand page-scroll" href="#page-top">
-              Your first step to a painfree you
-            </a>{" "}
+            
+            <a className="navbar-brand" href="#"/>
+              <img src="img/coru-logo.png" width="180" height="64" alt=""/>
           </div>
 
           <div
