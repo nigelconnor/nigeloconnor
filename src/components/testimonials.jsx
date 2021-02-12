@@ -11,7 +11,7 @@ export class testimonials extends Component {
           <div className="row">
             {this.props.data
               ? this.props.data.map((d, i) => (
-                  <div key={`${d.name}-${i}`} className="col-md-4">
+                  <div key={`${d.name}-${i}`} className="col-md-3">
                     <div className="testimonial">
                       <div className="testimonial-image">
                         {" "}
